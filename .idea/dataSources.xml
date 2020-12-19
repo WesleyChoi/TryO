@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="playerdatabase" uuid="e4664376-be04-4120-93d8-ce1c13b9b8cf">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>database for players</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\210\lectures\project_p1f3b\data\SQLite\playerdatabase.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
